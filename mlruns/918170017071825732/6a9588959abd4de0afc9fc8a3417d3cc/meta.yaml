@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/918170017071825732/6a9588959abd4de0afc9fc8a3417d3cc/artifacts
+end_time: 1730781713660
+entry_point_name: ''
+experiment_id: '918170017071825732'
+lifecycle_stage: active
+run_id: 6a9588959abd4de0afc9fc8a3417d3cc
+run_name: puzzled-cat-134
+run_uuid: 6a9588959abd4de0afc9fc8a3417d3cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730781711989
+status: 3
+tags: []
+user_id: vishesh

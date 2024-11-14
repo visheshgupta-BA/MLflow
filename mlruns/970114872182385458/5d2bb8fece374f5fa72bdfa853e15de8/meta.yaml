@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/970114872182385458/5d2bb8fece374f5fa72bdfa853e15de8/artifacts
+end_time: 1731160747669
+entry_point_name: ''
+experiment_id: '970114872182385458'
+lifecycle_stage: active
+run_id: 5d2bb8fece374f5fa72bdfa853e15de8
+run_name: lyrical-yak-614
+run_uuid: 5d2bb8fece374f5fa72bdfa853e15de8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731160733469
+status: 3
+tags: []
+user_id: gupta

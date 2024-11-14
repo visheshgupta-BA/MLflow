@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/970114872182385458/e7aa26a7e36f4ff2bf19eec68f661744/artifacts
+end_time: 1731163227429
+entry_point_name: ''
+experiment_id: '970114872182385458'
+lifecycle_stage: active
+run_id: e7aa26a7e36f4ff2bf19eec68f661744
+run_name: thundering-fly-367
+run_uuid: e7aa26a7e36f4ff2bf19eec68f661744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731163211571
+status: 3
+tags: []
+user_id: gupta

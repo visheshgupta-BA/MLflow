@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MlflowStarter/2-DLMLFLOW/mlruns/147906061539171428/4cd11be5b9bf4d38b64056c800fce20b/artifacts
+end_time: 1731200682420
+entry_point_name: ''
+experiment_id: '147906061539171428'
+lifecycle_stage: active
+run_id: 4cd11be5b9bf4d38b64056c800fce20b
+run_name: unleashed-foal-898
+run_uuid: 4cd11be5b9bf4d38b64056c800fce20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731200679864
+status: 4
+tags: []
+user_id: gupta

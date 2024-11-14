@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MlflowStarter/2-DLMLFLOW/mlruns/147906061539171428/40af51bc0d264badba09f37e64c42d2c/artifacts
+end_time: 1731199683232
+entry_point_name: ''
+experiment_id: '147906061539171428'
+lifecycle_stage: active
+run_id: 40af51bc0d264badba09f37e64c42d2c
+run_name: suave-mole-832
+run_uuid: 40af51bc0d264badba09f37e64c42d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731199683014
+status: 4
+tags: []
+user_id: gupta

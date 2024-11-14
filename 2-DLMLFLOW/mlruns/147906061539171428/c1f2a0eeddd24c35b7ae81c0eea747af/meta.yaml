@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MlflowStarter/2-DLMLFLOW/mlruns/147906061539171428/c1f2a0eeddd24c35b7ae81c0eea747af/artifacts
+end_time: 1731200038258
+entry_point_name: ''
+experiment_id: '147906061539171428'
+lifecycle_stage: active
+run_id: c1f2a0eeddd24c35b7ae81c0eea747af
+run_name: unleashed-crab-746
+run_uuid: c1f2a0eeddd24c35b7ae81c0eea747af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731200036053
+status: 4
+tags: []
+user_id: gupta

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MlflowStarter/2-DLMLFLOW/mlruns/147906061539171428/90c7e32ae3e04a4082abf1fff0dff7dc/artifacts
+end_time: 1731201243642
+entry_point_name: ''
+experiment_id: '147906061539171428'
+lifecycle_stage: active
+run_id: 90c7e32ae3e04a4082abf1fff0dff7dc
+run_name: resilient-dove-484
+run_uuid: 90c7e32ae3e04a4082abf1fff0dff7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731201241162
+status: 4
+tags: []
+user_id: gupta

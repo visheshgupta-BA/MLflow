@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MlflowStarter/2-DLMLFLOW/mlruns/147906061539171428/86ff3389c80c4eb3995bcb91b257bdd1/artifacts
+end_time: 1731199734787
+entry_point_name: ''
+experiment_id: '147906061539171428'
+lifecycle_stage: active
+run_id: 86ff3389c80c4eb3995bcb91b257bdd1
+run_name: enchanting-cow-565
+run_uuid: 86ff3389c80c4eb3995bcb91b257bdd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731199723952
+status: 4
+tags: []
+user_id: gupta

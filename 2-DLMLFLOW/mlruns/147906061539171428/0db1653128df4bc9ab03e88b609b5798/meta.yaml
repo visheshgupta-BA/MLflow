@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MlflowStarter/2-DLMLFLOW/mlruns/147906061539171428/0db1653128df4bc9ab03e88b609b5798/artifacts
+end_time: 1731199734796
+entry_point_name: ''
+experiment_id: '147906061539171428'
+lifecycle_stage: active
+run_id: 0db1653128df4bc9ab03e88b609b5798
+run_name: bemused-goat-963
+run_uuid: 0db1653128df4bc9ab03e88b609b5798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731199719326
+status: 4
+tags: []
+user_id: gupta
